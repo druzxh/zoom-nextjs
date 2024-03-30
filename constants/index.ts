@@ -15,13 +15,13 @@ export const sideBarLinks = [
         imgUrl : "/icons/Previous.svg"
     },
     {
-        label: "Recording",
-        route: "/recording",
-        imgUrl : "/icons/Recording.svg"
+        label: "Recordings",
+        route: "/recordings",
+        imgUrl : "/icons/Recordings.svg"
     },
     {
         label: "Personal Room",
         route: "/personal-room",
-        imgUrl : "/icons/Personal-Room.svg"
+        imgUrl : "/icons/Add-Personal.svg"
     }
 ]
